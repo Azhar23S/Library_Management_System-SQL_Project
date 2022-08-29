@@ -1,4 +1,4 @@
-# <p align="center">📚 Library Management System Database - SQL_Project <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" width="22" height="28"/></p>
+# <p align="center">📚 Library Management System - SQL Project <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" width="22" height="28"/></p>
 
 <p align="center">I'm sharing the Database of Library Management System using MySQL</p>
 
