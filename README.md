@@ -17,7 +17,7 @@ The concept behind this project is to create a library management system that is
 Note:
 
 - This Project is done using <code>MySQL</code>
-- Created Database, Tables, Inserted Values and Queries are written in Single SQL File and uploaded for user convenience.
+- Created Database, Tables, Inserted Values and Queries are written in Single SQL File for user convenience.
 
 <h2>Objectives</h2>
 
